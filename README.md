@@ -1,3 +1,1 @@
-# coding
-im trying to learn how to code
-so if i make any mistakes it isnt my fault 
+Hey my name is rahard seymour im a highschool students doing a genuis hour project and im trying to learn coding and creat a game
